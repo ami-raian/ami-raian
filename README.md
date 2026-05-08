@@ -21,46 +21,42 @@ Passionate full-stack web developer with 2+ years of experience building scalabl
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**🖥️ Frontend**
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40" />
-    </a>
-    <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="Three.js" width="40" height="40" />
-    </a>
-    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="Framer Motion" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwind,threejs,framermotion&perRow=7" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="30"/>
+</p>
+
+</td>
+    <td valign="top" width="50%">
+
+**⚙️ Backend & Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perRow=5" />
+</p>
+
+**🔧 Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman&perRow=5" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
+</p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -106,8 +102,8 @@ Passionate full-stack web developer with 2+ years of experience building scalabl
 
 ### 🏢 Experience
 
-- **Front-End Developer** — Taghyeer Technologies, Bangladesh *(Jan 2025 – Present)*
-- **Full-Stack Web Developer** — Bulbi Urban Development Authority, Remote, India *(Oct 2024 – Dec 2024)*
+- **Front-End Developer** — Taghyeer Technologies, Bangladesh _(Jan 2025 – Present)_
+- **Full-Stack Web Developer** — Bulbi Urban Development Authority, Remote, India _(Oct 2024 – Dec 2024)_
 
 ---
 
@@ -115,7 +111,7 @@ Passionate full-stack web developer with 2+ years of experience building scalabl
 
 - **Daffodil International University**
   BSc in Computer Science and Engineering
-  *January 2019 – June 2023* | **CGPA:** 3.51
+  _January 2019 – June 2023_ | **CGPA:** 3.51
 
 ---
 
